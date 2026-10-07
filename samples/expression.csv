@@ -1,0 +1,6 @@
+gene,sample_control_1,sample_control_2,sample_case_1,sample_case_2
+TP53,12,11,30,35
+EGFR,8,8,9,10
+BRCA1,4,5,18,20
+MYC,15,14,29,31
+GAPDH,100,103,99,101
